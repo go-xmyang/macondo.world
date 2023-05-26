@@ -1,0 +1,4 @@
+baseURL = 'http://macondo.world/'
+languageCode = 'en-us'
+title = 'Macondo World'
+theme = 'PaperMod'
