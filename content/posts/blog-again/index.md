@@ -13,5 +13,5 @@ draft: false
 ```shell
 echo "hello world"
 ```
-
-![](/static/images/logo.jpg)
+使用本地图片
+![](images/logo.jpg)

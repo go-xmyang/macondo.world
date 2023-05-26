@@ -7,11 +7,11 @@
             <atom:link href="https://macondo.world/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>开启博客-再次</title>
-    <link>https://macondo.world/posts/%E5%BC%80%E5%90%AF%E5%8D%9A%E5%AE%A2-%E5%86%8D%E6%AC%A1/</link>
+    <link>https://macondo.world/posts/blog-again/</link>
     <pubDate>Fri, 26 May 2023 17:57:47 &#43;0800</pubDate><author>
         <name>Author</name>
-    </author><guid>https://macondo.world/posts/%E5%BC%80%E5%90%AF%E5%8D%9A%E5%AE%A2-%E5%86%8D%E6%AC%A1/</guid>
+    </author><guid>https://macondo.world/posts/blog-again/</guid>
     <description><![CDATA[ Markdown语法测试
-标题1 1 2 3 echo &#34;hello world&#34; ]]></description>
+标题1 1 2 3 echo &#34;hello world&#34; 使用本地图片 ]]></description>
 </item></channel>
 </rss>
