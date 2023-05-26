@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://macondo.world/</loc><lastmod>2023-05-26T17:57:47&#43;08:00</lastmod></url><url>
-            <loc>http://macondo.world/posts/my-first-post/</loc><lastmod>2023-05-26T17:57:47&#43;08:00</lastmod></url><url>
-            <loc>http://macondo.world/posts/</loc><lastmod>2023-05-26T17:57:47&#43;08:00</lastmod></url><url>
-            <loc>http://macondo.world/categories/</loc></url><url>
-            <loc>http://macondo.world/tags/</loc></url></urlset>
+            <loc>https://macondo.world/</loc><lastmod>2023-05-26T17:57:47&#43;08:00</lastmod></url><url>
+            <loc>https://macondo.world/posts/</loc><lastmod>2023-05-26T17:57:47&#43;08:00</lastmod></url><url>
+            <loc>https://macondo.world/posts/%E5%BC%80%E5%90%AF%E5%8D%9A%E5%AE%A2-%E5%86%8D%E6%AC%A1/</loc><lastmod>2023-05-26T17:57:47&#43;08:00</lastmod></url><url>
+            <loc>https://macondo.world/categories/</loc></url><url>
+            <loc>https://macondo.world/tags/</loc></url></urlset>

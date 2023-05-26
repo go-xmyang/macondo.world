@@ -1,16 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Macondo World</title>
-        <link>http://macondo.world/</link>
+        <link>https://macondo.world/</link>
         <description>Macondo World</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 May 2023 17:57:47 &#43;0800</lastBuildDate>
-            <atom:link href="http://macondo.world/index.xml" rel="self" type="application/rss+xml" />
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 26 May 2023 17:57:47 &#43;0800</lastBuildDate>
+            <atom:link href="https://macondo.world/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>My First Post</title>
-    <link>http://macondo.world/posts/my-first-post/</link>
+    <title>开启博客-再次</title>
+    <link>https://macondo.world/posts/%E5%BC%80%E5%90%AF%E5%8D%9A%E5%AE%A2-%E5%86%8D%E6%AC%A1/</link>
     <pubDate>Fri, 26 May 2023 17:57:47 &#43;0800</pubDate><author>
         <name>Author</name>
-    </author><guid>http://macondo.world/posts/my-first-post/</guid>
-    <description><![CDATA[]]></description>
+    </author><guid>https://macondo.world/posts/%E5%BC%80%E5%90%AF%E5%8D%9A%E5%AE%A2-%E5%86%8D%E6%AC%A1/</guid>
+    <description><![CDATA[ Markdown语法测试
+标题1 1 2 3 echo &#34;hello world&#34; ]]></description>
 </item></channel>
 </rss>
