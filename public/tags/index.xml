@@ -4,5 +4,12 @@
         <link>https://macondo.world/tags/</link>
         <description>Tags - 标签 - Macondo World</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>go.xmyang@gmail.com (xmyang)</managingEditor>
-            <webMaster>go.xmyang@gmail.com (xmyang)</webMaster><atom:link href="https://macondo.world/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>go.xmyang@gmail.com (xmyang)</webMaster><lastBuildDate>Mon, 29 May 2023 15:26:30 &#43;0800</lastBuildDate><atom:link href="https://macondo.world/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>blog</title>
+    <link>https://macondo.world/tags/blog/</link>
+    <pubDate>Mon, 29 May 2023 15:26:30 &#43;0800</pubDate><author>
+        <name>xmyang</name>
+    </author><guid>https://macondo.world/tags/blog/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>

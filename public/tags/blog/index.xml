@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Macondo World</title>
-        <link>https://macondo.world/</link>
-        <description>只是为了给平凡的生活留下点什么</description>
+        <title>blog - 标签 - Macondo World</title>
+        <link>https://macondo.world/tags/blog/</link>
+        <description>blog - 标签 - Macondo World</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>go.xmyang@gmail.com (xmyang)</managingEditor>
-            <webMaster>go.xmyang@gmail.com (xmyang)</webMaster><lastBuildDate>Mon, 29 May 2023 15:26:30 &#43;0800</lastBuildDate>
-            <atom:link href="https://macondo.world/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>go.xmyang@gmail.com (xmyang)</webMaster><lastBuildDate>Mon, 29 May 2023 15:26:30 &#43;0800</lastBuildDate><atom:link href="https://macondo.world/tags/blog/" rel="self" type="application/rss+xml" /><item>
     <title>blog again</title>
     <link>https://macondo.world/posts/2023/q2/blog-again/</link>
     <pubDate>Mon, 29 May 2023 15:26:30 &#43;0800</pubDate><author>

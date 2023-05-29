@@ -10,7 +10,9 @@
     <pubDate>Mon, 29 May 2023 15:26:30 &#43;0800</pubDate><author>
         <name>xmyang</name>
     </author><guid>https://macondo.world/posts/2023/q2/blog-again/</guid>
-    <description><![CDATA[test111
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/2023/q2/blog-again/logo.jpg" referrerpolicy="no-referrer">
+            </div>test111
 test2123]]></description>
 </item></channel>
 </rss>
