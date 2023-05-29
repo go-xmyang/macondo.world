@@ -188,17 +188,15 @@ theme = "DoIt"
     # DoIt 更改 | 0.2.0 评论系统设置
     [params.page.comment]
       enable = true
-      # DoIt 新增 | 0.2.0 Telegram Comments 评论系统设置
-      [params.page.comment.telegram]
-        enable = false
-        siteID = "XE-r0dk9"
-        limit = 5
-        height = ""
-        color = ""
-        colorful = true
-        dislikes = false
-        outlined = false
-        dark = false
+      # DoIt 新增 | 0.2.5 Utterances 评论系统设置
+      [params.page.comment.utterances]
+        enable = true
+        # owner/repo
+        repo = "go-xmyang/macondo.world"
+        issueTerm = "pathname"
+        label = ""
+        lightTheme = "github-light"
+        darkTheme = "github-dark"
 [menu]
   [[menu.main]]
     identifier = "posts"
