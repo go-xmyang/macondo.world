@@ -190,13 +190,39 @@ theme = "DoIt"
       enable = true
       # DoIt 新增 | 0.2.5 Utterances 评论系统设置
       [params.page.comment.utterances]
-        enable = true
+        enable = false
         # owner/repo
         repo = "go-xmyang/macondo.world"
         issueTerm = "pathname"
         label = ""
         lightTheme = "github-light"
         darkTheme = "github-dark"
+    # DoIt 新增 | 0.2.14 相关文章推荐配置
+    [params.page.related]
+      enable = true
+      count = 5
+
+  # DoIt 新增 | 0.2.5 TypeIt 配置
+  [params.typeit]
+    # 每一步的打字速度 (单位是毫秒)
+    speed = 100
+    # 光标的闪烁速度 (单位是毫秒)
+    cursorSpeed = 1000
+    # 光标的字符 (支持 HTML 格式)
+    cursorChar = "|"
+    # 打字结束之后光标的持续时间 (单位是毫秒, "-1" 代表无限大)
+    duration = -1
+
+  # 网站验证代码, 用于 Google/Bing/Yandex/Pinterest/Baidu
+  [params.verification]
+    google = ""
+    bing = ""
+    yandex = ""
+    pinterest = ""
+    baidu = ""
+    so = "" # 360 search
+    sogou = ""
+
 [menu]
   [[menu.main]]
     identifier = "posts"
@@ -228,8 +254,43 @@ theme = "DoIt"
 
 # Hugo 解析文档的配置
 [markup]
-  # 语法高亮设置 (https://gohugo.io/content-management/syntax-highlighting)
+  # 语法高亮设置
   [markup.highlight]
-    # false 是必要的设置 (https://github.com/dillonzq/LoveIt/issues/158)
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = true
+    # false 是必要的设置
+    # (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
+  # Goldmark 是 Hugo 0.60 以来的默认 Markdown 解析库
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.renderer]
+      # 是否在文档中直接使用 HTML 标签
+      unsafe = true
+  # 目录设置
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
 
+# 作者配置
+[author]
+  name = "xmyang"
+  email = "go.xmyang@gmail.com"
+  link = "https://macondo.world/"
+  avatar = ""
+  gravatarEmail = "go.xmyang@gmail.com"
+
+# 网站地图配置
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
