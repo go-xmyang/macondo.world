@@ -190,7 +190,7 @@ theme = "DoIt"
       enable = true
       # DoIt 新增 | 0.2.0 Telegram Comments 评论系统设置
       [params.page.comment.telegram]
-        enable = true
+        enable = false
         siteID = "XE-r0dk9"
         limit = 5
         height = ""
