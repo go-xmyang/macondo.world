@@ -3,5 +3,6 @@
         <title>Categories - 分类 - Macondo World</title>
         <link>https://macondo.world/categories/</link>
         <description>Categories - 分类 - Macondo World</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://macondo.world/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>go.xmyang@gmail.com (xmyang)</managingEditor>
+            <webMaster>go.xmyang@gmail.com (xmyang)</webMaster><atom:link href="https://macondo.world/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
