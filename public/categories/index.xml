@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - Macondo World</title>
+        <title>Categories - 分类 - Macondo World</title>
         <link>https://macondo.world/categories/</link>
-        <description>Categories - Category - Macondo World</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://macondo.world/categories/" rel="self" type="application/rss+xml" /></channel>
+        <description>Categories - 分类 - Macondo World</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://macondo.world/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
